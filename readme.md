@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Add your Frontend Mentor solution URL here.
+- Solution URL: https://www.frontendmentor.io/solutions/nft-card-30bx1HsVFd
 - Live Site URL: https://abdurraheem25.github.io/nft-card/
 
 ## My Process
