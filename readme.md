@@ -29,7 +29,6 @@ Users should be able to:
 
 ![NFT Preview Card Component Screenshot](./screenshot.jpg)
 
-*Replace `screenshot.jpg` with the actual filename of your screenshot if it is different.*
 
 ### Links
 
@@ -65,7 +64,7 @@ I want to continue improving my CSS layout skills, responsive design, and abilit
 
 ## Author
 
-- Frontend Mentor: Add your profile URL here.
+- Frontend Mentor: https://www.frontendmentor.io/profile/abdurraheem25
 
 ## Acknowledgments
 
