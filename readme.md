@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: Add your Frontend Mentor solution URL here.
-- Live Site URL: Add your deployed website URL here.
+- Live Site URL: https://abdurraheem25.github.io/nft-card/
 
 ## My Process
 
